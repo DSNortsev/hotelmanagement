@@ -2,7 +2,7 @@ START TRANSACTION;
 
 SET sql_mode = "ONLY_FULL_GROUP_BY";
 
-DROP DATABASE IF EXISTS d0nort01CECSProject;
+DROP DATABASE IF EXISTS hotelmanagementProject;
 
 CREATE DATABASE hotelmanagementProject;
 USE hotelmanagementProject;
